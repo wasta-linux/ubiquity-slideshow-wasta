@@ -1,0 +1,18 @@
+Source: ubiquity-slideshow-wasta
+Section: x11
+Priority: optional
+Maintainer: Wasta-Linux Team <wasta.linux.team@gmail.com>
+Build-Depends: cdbs, debhelper (>= 5)
+Build-Depends-Indep: po4a, python-utidylib, python
+Standards-Version: 3.9.6
+Homepage: https://launchpad.net/ubiquity-slideshow-wasta
+
+Package: ubiquity-slideshow-wasta
+Architecture: all
+Provides: ubiquity-slideshow
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Depends: ${misc:Depends}
+Description: Ubiquity slideshow for Wasta-Linux
+ A slideshow intended for the Ubiquity installer, designed as a quick 
+ introduction to Wasta-Linux.

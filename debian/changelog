@@ -1,0 +1,5 @@
+ubiquity-slideshow-wasta (0.1.0) xenial; urgency=medium
+
+  * initial release: forked from ubiquity-slideshow-ubuntu (133)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 02 Feb 2018 11:25:10 +0300
