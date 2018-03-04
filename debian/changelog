@@ -1,3 +1,9 @@
+ubiquity-slideshow-wasta (0.1.2) xenial; urgency=medium
+
+  * correcting 'dummy' po translation to English (Canada)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sun, 04 Mar 2018 20:17:15 +0300
+
 ubiquity-slideshow-wasta (0.1.1) xenial; urgency=medium
 
   * adding translation support

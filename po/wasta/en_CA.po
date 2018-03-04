@@ -1,4 +1,4 @@
-# English (Wasta) translation for ubiquity-slideshow-wasta
+# English (Canada) translation for ubiquity-slideshow-wasta
 # Copyright (C) 2018 Wasta-Linux Team
 # This file is distributed under the same license as the ubiquity-slideshow-wasta package.
 # Rik Shaw <rikshaw76@gmail.com>, 2018.
@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2018-03-04 19:31+0300\n"
 "PO-Revision-Date: 2018-03-04 19:32+0300\n"
 "Last-Translator: Rik Shaw <rikshaw76@gmail.com>\n"
-"Language-Team: English (Wasta) <en_WA@li.org>\n"
+"Language-Team: English (Canada) <en_CA@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
