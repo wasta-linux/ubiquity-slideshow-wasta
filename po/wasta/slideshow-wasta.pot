@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-03-04 19:31+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,212 +17,266 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Access for everyone"
+#: slideshows/wasta/slides/00_welcome.html:1
+msgid "Welcome to Wasta-Linux"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/accessibility.html:8
+#: slideshows/wasta/slides/00_welcome.html:8
 msgid ""
-"At the heart of the Ubuntu philosophy is the belief that computing is for "
-"everyone. With advanced accessibility tools and options to change language, "
-"colour scheme and text size, Ubuntu makes computing easy – whoever and "
-"wherever you are."
-msgstr ""
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customization options"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:16
-msgid "Appearance"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:20
-msgid "Assistive technologies"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:24
-msgid "Language support"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/browse.html:1
-msgid "Make the most of the web"
+"<a href=\"http://www.wastalinux.org/\">Wasta-Linux</a> is perfect for anyone "
+"wanting a <strong>virus-resistant</strong> system that is not only "
+"<strong>free to share with anyone</strong> but also provides "
+"<strong>freedom</strong> of flexibility and customization."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/browse.html:8
-msgid ""
-"Ubuntu includes Firefox, the web browser used by millions of people around "
-"the world. And web applications you use frequently (like Facebook or Gmail, "
-"for example) can be pinned to your desktop for faster access, just like apps "
-"on your computer."
+#: slideshows/wasta/slides/00_welcome.html:9
+#: slideshows/wasta/slides/01_cinnamon.html:9
+#: slideshows/wasta/slides/01_cinnamon.html:11
+#: slideshows/wasta/slides/03_sil-ready.html:9
+#: slideshows/wasta/slides/04_wasta-apps.html:9
+#: slideshows/wasta/slides/05_wasta-utilities.html:9
+#: slideshows/wasta/slides/06_customize.html:9
+#: slideshows/wasta/slides/07_thanks.html:9
+msgid "&nbsp"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/00_welcome.html:10
+msgid "Wasta-Linux is ready \"out of the box\" for all your computing needs."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/music.html:11
-#: slideshows/ubuntu/slides/office.html:12
-#: slideshows/ubuntu/slides/photos.html:12
+#: slideshows/wasta/slides/00_welcome.html:14
+#: slideshows/wasta/slides/02_libreoffice.html:12
+#: slideshows/wasta/slides/04_wasta-apps.html:14
+#: slideshows/wasta/slides/05_wasta-utilities.html:14
 msgid "Included software"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:16
-msgid "Firefox web browser"
-msgstr ""
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
-#: slideshows/ubuntu/slides/photos.html:19
-msgid "Supported software"
+#: slideshows/wasta/slides/00_welcome.html:18
+msgid "Firefox"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
+#: slideshows/wasta/slides/00_welcome.html:22
+msgid "Thunderbird"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
-msgid "Chromium"
+#: slideshows/wasta/slides/00_welcome.html:26
+msgid "LibreOffice"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/wasta/slides/00_welcome.html:30
+msgid "VLC"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Help and support"
+#: slideshows/wasta/slides/01_cinnamon.html:1
+msgid "Functional and familiar"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
+#: slideshows/wasta/slides/01_cinnamon.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
-"covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"Regardless of what platform you're coming from, Wasta-Linux has an intuitive "
+"interface that is made to look familiar. The default desktop looks and feels "
+"a lot like <strong>Microsoft Windows 7/XP</strong>, while <a href=\"https://"
+"sites.google.com/site/wastalinux/wasta-applications/wasta-layout/\">Wasta-"
+"Layout</a> allows users to select interfaces inspired by <strong>macOS</"
+"strong> or <strong>Ubuntu Unity</strong>."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:12
+#: slideshows/wasta/slides/01_cinnamon.html:10
 msgid ""
-"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
-"search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:16
-msgid ""
-"For pointers to other useful resources, please visit <a href=\"http://"
-"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
-"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
-"support</a>."
+"All of these options are made possible by using the <strong>Cinnamon</"
+"strong> desktop from the <a href=\"http://www.linuxmint.org/\">Linux Mint</"
+"a> team. The <a href=\"http://www.ubuntu.org/\">Ubuntu</a> base for Wasta-"
+"Linux ensures that users and developers alike benefit from the well "
+"established Ubuntu ecosystem."
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/music.html:2
-msgid "Take your music with you"
+#: slideshows/wasta/slides/02_libreoffice.html:1
+msgid "Productivity defined: LibreOffice"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/music.html:7
+#: slideshows/wasta/slides/02_libreoffice.html:8
 msgid ""
-"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options, it's simple to queue up the perfect songs. And it works great with "
-"CDs and portable music players, so you can enjoy all your music wherever you "
-"go."
+"<a href=\"http://www.libreoffice.org/\">LibreOffice</a> is a free office "
+"suite packed with everything you need to create doucments, spreadsheets, and "
+"presentations. Compatible with <strong>Microsoft Office</strong> file "
+"formats, it gives you all the features you need, without the price tag."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:15
-msgid "Rhythmbox Music Player"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/office.html:1
-msgid "Everything you need for the office"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/office.html:8
-msgid ""
-"LibreOffice is a free office suite packed with everything you need to create "
-"documents, spreadsheets and presentations. Compatible with Microsoft Office "
-"file formats, it gives you all the features you need, without the price tag."
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:16
+#: slideshows/wasta/slides/02_libreoffice.html:16
 msgid "LibreOffice Writer"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:20
+#: slideshows/wasta/slides/02_libreoffice.html:20
 msgid "LibreOffice Calc"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:24
+#: slideshows/wasta/slides/02_libreoffice.html:24
 msgid "LibreOffice Impress"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/photos.html:1
-msgid "Have fun with your photos"
+#: slideshows/wasta/slides/03_sil-ready.html:1
+msgid "Ready for SIL software"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/photos.html:8
+#: slideshows/wasta/slides/03_sil-ready.html:8
 msgid ""
-"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"<a href=\"http://www.sil.org/\">SIL</a> has made their language development "
+"software easily availble in Wasta-Linux."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/03_sil-ready.html:10
+msgid ""
+"Ready to make books? SIL's <a href=\"http://www.bloomlibrary.org/\">Bloom</"
+"a> is preinstalled for users to create their own books ready for publishing "
+"to PDF or distribution on smart phones."
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/wasta/slides/03_sil-ready.html:14
+msgid "Included SIL software"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:16
-msgid "Shotwell Photo Manager"
+#: slideshows/wasta/slides/03_sil-ready.html:18
+msgid "Bloom"
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/wasta/slides/03_sil-ready.html:21
+msgid "Other supported SIL software"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:23
-msgid "GIMP Image Editor"
+#: slideshows/wasta/slides/03_sil-ready.html:25
+msgid "Fieldworks"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
+#: slideshows/wasta/slides/03_sil-ready.html:29
+msgid "Adapt It"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/usc.html:1
-msgid "Find even more software"
+#: slideshows/wasta/slides/04_wasta-apps.html:1
+msgid "Additional Wasta-Linux user applications"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/usc.html:8
+#: slideshows/wasta/slides/04_wasta-apps.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
+"backup/\">Wasta-Backup</a> will keep your document backups versioned so you "
+"don't have to fear any loss of data."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/04_wasta-apps.html:10
+msgid ""
+"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
+"resources/\">Wasta-Resources</a> is a standard way for documentation and "
+"reference materials to be made available to users."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/wasta/slides/04_wasta-apps.html:18
+msgid "Wasta-Backup"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/wasta/slides/04_wasta-apps.html:22
+msgid "Wasta-Resources"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu"
+#: slideshows/wasta/slides/05_wasta-utilities.html:1
+msgid "Wasta-Linux utilities for advanced users"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/welcome.html:8
+#: slideshows/wasta/slides/05_wasta-utilities.html:8
 msgid ""
-"Fast and full of new features, the latest version of Ubuntu makes computing "
-"easier than ever. Here are just a few cool new things to look out for…"
+"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
+"offline/\">Wasta-Offline</a> is a utility that enables software updates and "
+"installations to be shared saving valuable internet bandwidth."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/05_wasta-utilities.html:10
+msgid ""
+"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
+"menus/\">Wasta-Menus</a> is a tool for limiting the visibility of installed "
+"applications on computers so that users are only presented with the "
+"appropriate tools for their work."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/wasta/slides/05_wasta-utilities.html:18
+msgid "Wasta-Offline"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/wasta/slides/05_wasta-utilities.html:22
+msgid "Wasta-Menus"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/wasta/slides/06_customize.html:1
+msgid "Create your own customized installer"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/06_customize.html:8
+msgid ""
+"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
+"remastersys/\">Wasta-Remastersys</a> is included to allow technical users to "
+"create their own customized Wasta-Linux installers so that fonts, keyboards, "
+"additional software, and training materials can be pre-installed."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/06_customize.html:10
+msgid ""
+"Additionally, Wasta-Linux users can work with the Wasta-Linux team to <a "
+"href=\"https://sites.google.com/site/wastalinux/home/customizing/\">create "
+"packages containing their customizations</a> so that all their users will "
+"<strong>stay in sync</strong> with future customizations."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/wasta/slides/07_thanks.html:1
+msgid "Thank you for choosing Wasta-Linux"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/07_thanks.html:8
+msgid ""
+"<strong>We hope you will enjoy Wasta-Linux and all the freedom that comes "
+"with it.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/wasta/slides/07_thanks.html:10
+msgid ""
+"If you wish to help us improve Wasta-Linux, either by giving us feedback or "
+"by getting involved in the project, please visit our website: <a href="
+"\"http://www.wastalinux.org/\">www.wastalinux.org</a>"
 msgstr ""
