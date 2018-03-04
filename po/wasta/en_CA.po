@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-wasta\n"
-"POT-Creation-Date: 2018-03-04 19:31+0300\n"
-"PO-Revision-Date: 2018-03-04 19:32+0300\n"
+"POT-Creation-Date: 2018-03-04 20:40+0300\n"
+"PO-Revision-Date: 2018-03-04 20:50+0300\n"
 "Last-Translator: Rik Shaw <rikshaw76@gmail.com>\n"
 "Language-Team: English (Canada) <en_CA@li.org>\n"
 "Language: \n"
@@ -48,10 +48,8 @@ msgstr "&nbsp"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/00_welcome.html:10
-msgid ""
-"Wasta-Linux is ready \"out of the box\" for all your computing needs."
-msgstr ""
-"Wasta-Linux is ready \"out of the box\" for all your computing needs."
+msgid "Wasta-Linux is ready \"out of the box\" for all your computing needs."
+msgstr "Wasta-Linux is ready \"out of the box\" for all your computing needs."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/wasta/slides/00_welcome.html:14
