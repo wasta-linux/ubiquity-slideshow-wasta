@@ -1,3 +1,9 @@
+ubiquity-slideshow-wasta (0.1.4) xenial; urgency=medium
+
+  * 03_sil-ready.html: spelling correction
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sat, 10 Mar 2018 11:59:28 +0300
+
 ubiquity-slideshow-wasta (0.1.3) xenial; urgency=medium
 
   * removing translation generation scripts: already incorporated in the
