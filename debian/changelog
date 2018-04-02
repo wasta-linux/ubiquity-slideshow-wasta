@@ -1,3 +1,9 @@
+ubiquity-slideshow-wasta (0.1.5) xenial; urgency=medium
+
+  * 02-libreoffice.html: spelling correction
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 02 Apr 2018 13:17:56 +0300
+
 ubiquity-slideshow-wasta (0.1.4) xenial; urgency=medium
 
   * 03_sil-ready.html: spelling correction

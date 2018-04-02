@@ -1,4 +1,4 @@
-# Makefile for ubiquity-slideshow-ubuntu
+# Makefile for ubiquity-slideshow-wasta
 
 SLIDESHOWS = \
 	wasta

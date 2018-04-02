@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-03-04 20:40+0300\n"
+"POT-Creation-Date: 2018-04-02 13:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -110,7 +110,7 @@ msgstr ""
 #: slideshows/wasta/slides/02_libreoffice.html:8
 msgid ""
 "<a href=\"http://www.libreoffice.org/\">LibreOffice</a> is a free office "
-"suite packed with everything you need to create doucments, spreadsheets, and "
+"suite packed with everything you need to create documents, spreadsheets, and "
 "presentations. Compatible with <strong>Microsoft Office</strong> file "
 "formats, it gives you all the features you need, without the price tag."
 msgstr ""
@@ -139,7 +139,7 @@ msgstr ""
 #: slideshows/wasta/slides/03_sil-ready.html:8
 msgid ""
 "<a href=\"http://www.sil.org/\">SIL</a> has made their language development "
-"software easily availble in Wasta-Linux."
+"software easily available in Wasta-Linux."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
