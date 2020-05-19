@@ -3,7 +3,7 @@ Upstream-Name: ubiquity-slideshow-wasta
 Source: https://github.com/wasta-linux/ubiquity-slideshow-wasta
 
 Files: slideshows/wasta/*
-Copyright: 2018 Rik Shaw <rikshaw76@gmail.com>
+Copyright: 2018-2020 Rik Shaw <rikshaw76@gmail.com>
 License: GPL-3.0+
 
 License: GPL-3.0+

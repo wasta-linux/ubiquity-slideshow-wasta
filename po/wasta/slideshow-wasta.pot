@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-04-02 13:08+0300\n"
+"POT-Creation-Date: 2020-05-19 11:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/wasta/slides/00_welcome.html:1
-msgid "Welcome to Wasta-Linux"
+msgid "Welcome DAWGS Wasta-Linux"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/00_welcome.html:8
 msgid ""
-"<a href=\"http://www.wastalinux.org/\">Wasta-Linux</a> is perfect for anyone "
-"wanting a <strong>virus-resistant</strong> system that is not only "
+"<a href=\"https://www.wastalinux.org/\">Wasta-Linux</a> is perfect for "
+"anyone wanting a <strong>virus-resistant</strong> system that is not only "
 "<strong>free to share with anyone</strong> but also provides "
 "<strong>freedom</strong> of flexibility and customization."
 msgstr ""
@@ -86,17 +86,17 @@ msgid ""
 "Regardless of what platform you're coming from, Wasta-Linux has an intuitive "
 "interface that is made to look familiar. The default desktop looks and feels "
 "a lot like <strong>Microsoft Windows 7/XP</strong>, while <a href=\"https://"
-"sites.google.com/site/wastalinux/wasta-applications/wasta-layout/\">Wasta-"
-"Layout</a> allows users to select interfaces inspired by <strong>macOS</"
-"strong> or <strong>Ubuntu Unity</strong>."
+"www.wastalinux.org/wasta-apps/cinnamon-layout/\">Cinnamon-Layout</a> allows "
+"users to select interfaces inspired by <strong>macOS</strong> or "
+"<strong>Ubuntu Unity</strong>."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/01_cinnamon.html:10
 msgid ""
 "All of these options are made possible by using the <strong>Cinnamon</"
-"strong> desktop from the <a href=\"http://www.linuxmint.org/\">Linux Mint</"
-"a> team. The <a href=\"http://www.ubuntu.org/\">Ubuntu</a> base for Wasta-"
+"strong> desktop from the <a href=\"https://www.linuxmint.org/\">Linux Mint</"
+"a> team. The <a href=\"https://www.ubuntu.org/\">Ubuntu</a> base for Wasta-"
 "Linux ensures that users and developers alike benefit from the well "
 "established Ubuntu ecosystem."
 msgstr ""
@@ -109,7 +109,7 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/02_libreoffice.html:8
 msgid ""
-"<a href=\"http://www.libreoffice.org/\">LibreOffice</a> is a free office "
+"<a href=\"https://www.libreoffice.org/\">LibreOffice</a> is a free office "
 "suite packed with everything you need to create documents, spreadsheets, and "
 "presentations. Compatible with <strong>Microsoft Office</strong> file "
 "formats, it gives you all the features you need, without the price tag."
@@ -138,16 +138,16 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/03_sil-ready.html:8
 msgid ""
-"<a href=\"http://www.sil.org/\">SIL</a> has made their language development "
+"<a href=\"https://www.sil.org/\">SIL</a> has made their language development "
 "software easily available in Wasta-Linux."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/03_sil-ready.html:10
 msgid ""
-"Ready to make books? SIL's <a href=\"http://www.bloomlibrary.org/\">Bloom</"
-"a> is preinstalled for users to create their own books ready for publishing "
-"to PDF or distribution on smart phones."
+"Ready to make books? SIL's <a href=\"https://bloomlibrary.org/\">Bloom</a> "
+"is preinstalled for users to create their own books ready for publishing to "
+"PDF or distribution on smart phones."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
@@ -183,17 +183,17 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/04_wasta-apps.html:8
 msgid ""
-"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
-"backup/\">Wasta-Backup</a> will keep your document backups versioned so you "
-"don't have to fear any loss of data."
+"<a href=\"https://www.wastalinux.org/wasta-apps/wasta-backup/\">Wasta-"
+"Backup</a> will keep your document backups versioned so you don't have to "
+"fear any loss of data."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/04_wasta-apps.html:10
 msgid ""
-"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
-"resources/\">Wasta-Resources</a> is a standard way for documentation and "
-"reference materials to be made available to users."
+"<a href=\"https://www.wastalinux.org/wasta-apps/wasta-resources/\">Wasta-"
+"Resources</a> is a standard way for documentation and reference materials to "
+"be made available to users."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -214,18 +214,18 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/05_wasta-utilities.html:8
 msgid ""
-"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
-"offline/\">Wasta-Offline</a> is a utility that enables software updates and "
-"installations to be shared saving valuable internet bandwidth."
+"<a href=\"https://www.wastalinux.org/wasta-apps/wasta-offline/\">Wasta-"
+"Offline</a> is a utility that enables software updates and installations to "
+"be shared saving valuable internet bandwidth."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/05_wasta-utilities.html:10
 msgid ""
-"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
-"menus/\">Wasta-Menus</a> is a tool for limiting the visibility of installed "
-"applications on computers so that users are only presented with the "
-"appropriate tools for their work."
+"<a href=\"https://www.wastalinux.org/wasta-apps/wasta-menus/\">Wasta-Menus</"
+"a> is a tool for limiting the visibility of installed applications on "
+"computers so that users are only presented with the appropriate tools for "
+"their work."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -246,9 +246,9 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/wasta/slides/06_customize.html:8
 msgid ""
-"<a href=\"https://sites.google.com/site/wastalinux/wasta-applications/wasta-"
-"remastersys/\">Wasta-Remastersys</a> is included to allow technical users to "
-"create their own customized Wasta-Linux installers so that fonts, keyboards, "
+"<a href=\"https://www.wastalinux.org/home/customizing/wasta-remastersys/"
+"\">Wasta-Remastersys</a> is included to allow technical users to create "
+"their own customized Wasta-Linux installers so that fonts, keyboards, "
 "additional software, and training materials can be pre-installed."
 msgstr ""
 
@@ -256,8 +256,8 @@ msgstr ""
 #: slideshows/wasta/slides/06_customize.html:10
 msgid ""
 "Additionally, Wasta-Linux users can work with the Wasta-Linux team to <a "
-"href=\"https://sites.google.com/site/wastalinux/home/customizing/\">create "
-"packages containing their customizations</a> so that all their users will "
+"href=\"https://www.wastalinux.org/home/customizing/\">create packages "
+"containing their customizations</a> so that all their users will "
 "<strong>stay in sync</strong> with future customizations."
 msgstr ""
 
@@ -278,5 +278,5 @@ msgstr ""
 msgid ""
 "If you wish to help us improve Wasta-Linux, either by giving us feedback or "
 "by getting involved in the project, please visit our website: <a href="
-"\"http://www.wastalinux.org/\">www.wastalinux.org</a>"
+"\"https://www.wastalinux.org/\">www.wastalinux.org</a>"
 msgstr ""

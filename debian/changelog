@@ -1,3 +1,10 @@
+ubiquity-slideshow-wasta (20.04.0) focal; urgency=medium
+
+  * re-based scripts on ubiquty-slideshow-ubuntu-160
+  * updated icons and screenshots for 20.04
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Tue, 19 May 2020 11:57:01 -0500
+
 ubiquity-slideshow-wasta (0.1.5) xenial; urgency=medium
 
   * 02-libreoffice.html: spelling correction
