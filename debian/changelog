@@ -1,3 +1,9 @@
+ubiquity-slideshow-wasta (20.04.1) focal; urgency=medium
+
+  * resampled screenshot of 07_thanks.png
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 20 May 2020 13:14:09 -0500
+
 ubiquity-slideshow-wasta (20.04.0) focal; urgency=medium
 
   * re-based scripts on ubiquty-slideshow-ubuntu-160
