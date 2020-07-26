@@ -1,3 +1,9 @@
+ubiquity-slideshow-wasta (20.04.2) focal; urgency=medium
+
+  * Remove DAWGS Easter Egg in Welcome Slide :-) 
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sun, 26 Jul 2020 10:11:59 -0500
+
 ubiquity-slideshow-wasta (20.04.1) focal; urgency=medium
 
   * resampled screenshot of 07_thanks.png
