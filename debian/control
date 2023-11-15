@@ -3,7 +3,7 @@ Section: x11
 Priority: optional
 Maintainer: Wasta-Linux Team <wasta.linux.team@gmail.com>
 Build-Depends: debhelper-compat (= 12)
-Build-Depends-Indep: po4a, python2
+Build-Depends-Indep: po4a, python3
 Standards-Version: 4.5.0
 Homepage: https://github.com/wasta-linux/ubiquity-slideshow-wasta
 
